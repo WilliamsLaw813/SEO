@@ -20,6 +20,7 @@ Fee model: Contingency (no win, no fee)
 - `/practice-areas/insurance-claims/hurricane-damage/` — Hurricane (variant URL)
 - `/practice-areas/insurance-claims/tampa-fire-damage/` — Tampa fire damage
 - `/practice-areas/tampa-property-insurance-claim-lawyer/` — Tampa property (main local page)
+- `/practice-areas/insurance-claims/water-damage/` — Water damage claims
 - `/practice-areas/cast-iron-pipes/` — Cast iron pipe claims
 
 ### Personal Injury
@@ -46,12 +47,16 @@ Fee model: Contingency (no win, no fee)
 | Tampa Auto Accident Scams | `/blog/top-car-accident-scams-and-how-to-avoid-them/` |
 | How to Document Additional Living Expenses for a Hurricane Claim | `/blog/additional-living-expenses-for-a-hurricane-claim/` |
 | How to Prepare Your Florida Home for the 2025 Hurricane Season | `/blog/hurricane-preparation-tips-for-florida-homeowners/` |
+| Water Damage — the Silent Destroyer of Florida Homes | `/blog/water-damage-the-silent-destroyer-of-homes-florida-insurance-claim-lawyers-lexblog-logo.cfm` |
+| Understanding and Dealing with Florida Water Damage Claims | `/blog/navigating-water-damage-insurance-claims-in-florida/` |
+| Wind vs. Water Damage: What Your Florida Insurer May Not Tell You | `/blog/wind-vs-water-damage-what-your-florida-insurer-may-not-tell-you/` |
 
 ---
 
 ## FAQ Pages (Confirmed)
 - `/faq/what-is-proof-of-loss-for-property-insurance-claims/`
 - `/faq/cast-iron-pipe-water-damage-claims-in-florida/`
+- `/faq/what-water-damage-does-homeowners-insurance-not-cover/`
 
 ---
 
@@ -67,7 +72,6 @@ Fee model: Contingency (no win, no fee)
 
 ## Content Gaps Summary (High-Level)
 **Damage types with NO dedicated page:**
-- Water damage
 - Mold damage
 - Roof leak / roof damage
 - Flood damage

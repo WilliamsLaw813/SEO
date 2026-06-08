@@ -43,13 +43,12 @@ Scoring: **Priority 1** = highest-volume + lowest existing competition on your s
 
 ---
 
-#### 1. Florida Water Damage Insurance Claim Lawyer
+#### 1. Florida Water Damage Insurance Claim Page (Enhance Existing)
 **Target keyword:** `water damage insurance claim lawyer Florida`
 **Est. monthly searches:** 1,200–2,500
-**Keyword difficulty:** Medium (many competitors but you can rank with authority)
-**Why you'll rank:** You already rank for residential and hurricane claims — Google trusts your domain for property damage. Water damage is the #1 most common homeowner insurance dispute in Florida. Zero dedicated page currently exists.
-**URL:** `/practice-areas/insurance-claims/water-damage/`
-**Supporting content:** Blog post — "My Insurance Company Denied My Water Damage Claim in Florida — What Now?"
+**Existing URL:** `/practice-areas/insurance-claims/water-damage/`
+**Action:** Page already exists — this is a quick win. Audit and expand it: ensure it targets `water damage insurance claim lawyer Florida` in H1/title, links to the three water damage blog posts and the water damage FAQ, and includes a schema-marked FAQ section. Also add internal links from those blog posts back to the practice area page.
+**Supporting content already exists:** 3 blog posts + 1 FAQ page on water damage — make sure they all link to the practice area page.
 
 ---
 
