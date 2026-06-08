@@ -1,29 +1,29 @@
-# Enhanced Page: Water Damage Insurance Claim Lawyer Florida
-**Target URL:** `/practice-areas/insurance-claims/water-damage/`
-**Primary keyword:** `water damage insurance claim lawyer Florida`
-**Secondary keywords:** `water damage claim denied Florida`, `Florida homeowners insurance water damage`, `water damage attorney Tampa`
+# Enhanced Page: Tampa Water Damage Insurance Claim Lawyer
+**Target URL:** `/practice-areas/insurance-claims/tampa-water-damage/`
+**Primary keyword:** `Tampa water damage insurance claim lawyer`
+**Secondary keywords:** `water damage claim denied Tampa`, `Tampa homeowners insurance water damage`, `water damage attorney Tampa Florida`
 
 ---
 
-## ⚠️ URGENT: Canonicalisation Issue to Fix First
+## ⚠️ URL & Canonicalisation Note
 
-Google has indexed **three separate water damage URLs**. This splits your ranking power:
+Google has indexed **three water damage URLs** on the site. Now that Tampa Water Damage is the primary page, here's how to handle the others:
 
-1. `/practice-areas/insurance-claims/water-damage/` ← **keep as canonical**
-2. `/practice-areas/insurance-claims/tampa-water-damage/` ← **either 301 redirect to #1, or keep as a distinct Tampa-specific page**
-3. `/commercial-insurance-claims/water-damage/` ← **301 redirect to `/practice-areas/insurance-claims/commercial/` or a new commercial water damage page**
+1. `/practice-areas/insurance-claims/tampa-water-damage/` ← **this page — keep as canonical Tampa page**
+2. `/practice-areas/insurance-claims/water-damage/` ← **either 301 redirect to this page, OR repurpose as a statewide Florida water damage page targeting non-Tampa searches**
+3. `/commercial-insurance-claims/water-damage/` ← **301 redirect to `/practice-areas/insurance-claims/commercial/` or a dedicated commercial water damage page**
 
-Fix this before any other optimisation — duplicate URLs cannibalize each other in Google.
+Recommended approach: keep `/water-damage/` as a statewide page and let Tampa be the local variant — two pages targeting two different keyword sets.
 
 ---
 
 ## Page Metadata
 
 **Title tag (≤60 chars):**
-`Water Damage Insurance Claim Lawyer Florida | Williams Law`
+`Tampa Water Damage Insurance Claim Lawyer | Williams Law`
 
 **Meta description (≤155 chars):**
-`Your Florida water damage claim was denied or underpaid? Williams Law has fought insurance companies for 30+ years. Free consultation — no fee unless you win.`
+`Tampa water damage claim denied or underpaid? Williams Law has fought Florida insurance companies for 30+ years. Free consultation — no fee unless you win.`
 
 ---
 
@@ -32,10 +32,10 @@ Fix this before any other optimisation — duplicate URLs cannibalize each other
 ---
 
 ### H1
-`Florida Water Damage Insurance Claim Lawyer`
+`Tampa Water Damage Insurance Claim Lawyer`
 
 ### Intro paragraph (below H1)
-Water damage is the most common homeowner insurance claim in Florida — and one of the most frequently denied. Whether your damage came from a burst pipe, a leaking roof, a backed-up drain, or an appliance malfunction, your insurer's first move is often to find a reason not to pay. Williams Law Association, P.A. has been fighting that fight for Florida homeowners since 1995. We've recovered more than $300 million for policyholders whose claims were denied, delayed, or deliberately underpaid. Call us today for a free consultation — you pay nothing unless we win.
+Water damage is the most common homeowner insurance claim in Tampa — and one of the most frequently denied. Whether your damage came from a burst pipe, a leaking roof, a backed-up drain, or an appliance malfunction, your insurer's first move is often to find a reason not to pay. Williams Law Association, P.A. has been fighting that fight for Tampa homeowners since 1995. Based in Tampa, we've recovered more than $300 million for policyholders throughout Hillsborough County and across Florida whose claims were denied, delayed, or deliberately underpaid. Call us today for a free consultation — you pay nothing unless we win.
 
 **[Free Consultation Button]** | **[Phone Number]**
 
@@ -150,13 +150,13 @@ A public adjuster negotiates the value of your claim but cannot sue your insurer
 
 ### Closing CTA
 
-**Has your Florida water damage claim been denied, delayed, or underpaid?**
+**Has your Tampa water damage claim been denied, delayed, or underpaid?**
 
-Williams Law Association, P.A. has stood between Florida homeowners and their insurance companies for over 30 years. We work on contingency — no fees unless we recover for you.
+Williams Law Association, P.A. is Tampa's insurance claim law firm. We've stood between Tampa homeowners and their insurance companies for over 30 years. We work on contingency — no fees unless we recover for you.
 
 **[Get Your Free Consultation]** | **[Call (813) XXX-XXXX]**
 
-*Serving Tampa, Orlando, Miami, Jacksonville, Fort Lauderdale, and all of Florida.*
+*Based in Tampa. Serving Hillsborough County, Pinellas County, Pasco County, and all of Florida.*
 
 ---
 
@@ -212,12 +212,16 @@ Add to `<head>` or just before `</body>`:
   "@context": "https://schema.org",
   "@type": "LegalService",
   "name": "Williams Law Association, P.A.",
-  "description": "Florida water damage insurance claim lawyers. We fight denied, delayed, and underpaid water damage claims throughout Florida.",
-  "url": "https://www.williamspa.com/practice-areas/insurance-claims/water-damage/",
+  "description": "Tampa water damage insurance claim lawyers. We fight denied, delayed, and underpaid water damage claims throughout Tampa and Florida.",
+  "url": "https://www.williamspa.com/practice-areas/insurance-claims/tampa-water-damage/",
   "telephone": "+1-813-XXX-XXXX",
   "areaServed": {
-    "@type": "State",
-    "name": "Florida"
+    "@type": "City",
+    "name": "Tampa",
+    "containedInPlace": {
+      "@type": "State",
+      "name": "Florida"
+    }
   },
   "serviceType": "Water Damage Insurance Claim Representation",
   "priceRange": "Contingency fee — no fee unless you win"
